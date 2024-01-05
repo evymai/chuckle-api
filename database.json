@@ -1,29 +1,74 @@
 {
-    "jokes": [
-      {
-        "id": 1,
-        "text": "I went to buy some camo pants but couldn’t find any.",
-        "told": false
-      },
-      {
-        "id": 2,
-        "text": "I always find elevator jokes to be uplifting.",
-        "told": false
-      },
-      {
-        "id": 3,
-        "text": "Most people are shocked when they find out how bad I am as an electrician.",
-        "told": true
-      },
-      {
-        "id": 4,
-        "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
-        "told": false
-      },
-      {
-        "id": 5,
-        "text": "I failed math so many times at school, I can’t even count",
-        "told": true
-      }
-    ]
-  }
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": false
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": false
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": true
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": false
+    },
+    {
+      "text": " I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.",
+      "told": true,
+      "id": 7
+    },
+    {
+      "text": "Just burned 2,000 calories That’s the last time I leave brownies in the oven while I nap.",
+      "told": true,
+      "id": 10
+    },
+    {
+      "text": "Two wifi engineers got married. The reception was fantastic.  ",
+      "told": true,
+      "id": 19
+    },
+    {
+      "text": "Never trust atoms; they make up everything.",
+      "told": false,
+      "id": 20
+    },
+    {
+      "text": "People who take care of chickens are literally chicken tenders.",
+      "told": false,
+      "id": 21
+    },
+    {
+      "text": "Russian dolls are so full of themselves.",
+      "told": true,
+      "id": 22
+    },
+    {
+      "text": "I failed math so many times at school, I can’t even count.",
+      "told": false,
+      "id": 23
+    },
+    {
+      "text": "There are two turtles in a tank… one says to the other, “how do you drive this thing?\"",
+      "told": true,
+      "id": 24
+    },
+    {
+      "text": "A frog's favorite type of shoe is open toad sandals.",
+      "told": false,
+      "id": 25
+    },
+    {
+      "text": "My therapist says I have a preoccupation for revenge. We’ll see about that.",
+      "told": false,
+      "id": 26
+    }
+  ]
+}
